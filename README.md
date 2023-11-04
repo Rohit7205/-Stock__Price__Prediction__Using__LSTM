@@ -1,2 +1,2 @@
-# -Stock__Price__Prediction__Using__LSTM
+# Stock__Price__Prediction__Using__LSTM
 In this project, historical stock price data is collected and preprocessed to create a dataset suitable for training the LSTM model. The LSTM network is designed to analyze sequential data and learn from past price fluctuations to make predictions about future prices. It takes into account various factors, such as past stock performance, market sentiment, and relevant economic indicators.
